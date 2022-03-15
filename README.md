@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**shbfrlnc/shbfrlnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Berikut ini adalah daftar repository saya:
 
-Here are some ideas to get you started:
+Aplikasi todo: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/shbfrlnc/RCTADVTD-BST
+
+Template blog theme: 
+
+https://github.com/shbfrlnc/RNGBLGTHM-TWD
+
+Template landing page: 
+
+https://github.com/shbfrlnc/PRTFLLP-BST
+
+Source code tutorial:
+
+https://github.com/shbfrlnc/Semua-Kode-Belajar-Dan-Studi-Kasus
+
+Game asset:
+
+https://github.com/shbfrlnc/3D-LOWPOLY-GMSST
+
+
