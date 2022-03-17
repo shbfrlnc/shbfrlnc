@@ -2,7 +2,11 @@
 
 Berikut ini adalah daftar repository saya:
 
-Aplikasi todo: 
+Aplikasi Berbagi Paste dengan Node.js:
+
+https://github.com/shbfrlnc/NDPSTSHR-BST
+
+Aplikasi todo dengan React, Redux, dan Axios: 
 
 https://github.com/shbfrlnc/RCTADVTD-BST
 
