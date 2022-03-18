@@ -2,27 +2,31 @@
 
 Berikut ini adalah daftar repository saya:
 
+Aplikasi Blog CMS dengan Node.js:
+
+https://github.com/shbfrlnc/NDBLGCMS-BST
+
 Aplikasi Berbagi Paste dengan Node.js:
 
 https://github.com/shbfrlnc/NDPSTSHR-BST
 
-Aplikasi todo dengan React, Redux, dan Axios: 
+Aplikasi Todo dengan React, Redux, dan Axios: 
 
 https://github.com/shbfrlnc/RCTADVTD-BST
 
-Template blog theme: 
+Template Blog Theme: 
 
 https://github.com/shbfrlnc/RNGBLGTHM-TWD
 
-Template landing page: 
+Template Portfolio Landing Page: 
 
 https://github.com/shbfrlnc/PRTFLLP-BST
 
-Source code tutorial:
+Source Code Tutorial:
 
 https://github.com/shbfrlnc/Semua-Kode-Belajar-Dan-Studi-Kasus
 
-Game asset:
+Game Assets:
 
 https://github.com/shbfrlnc/3D-LOWPOLY-GMSST
 
