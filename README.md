@@ -30,6 +30,10 @@ Game Turret dengan Godot Engine:
 
 - https://github.com/shbfrlnc/GDGMTRRT
 
+Aplikasi Proteksi YouTube Embed dan PDF Embed:
+
+- https://github.com/shbfrlnc/EMBDPRTKT
+
 Aplikasi Website Downloader:
 
 - https://github.com/shbfrlnc/ESTGRBBR
