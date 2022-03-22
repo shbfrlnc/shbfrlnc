@@ -1,6 +1,20 @@
 # Hi there 👋
 
-Berikut ini adalah daftar repository saya:
+## Info Tentang Saya
+
+Website saya ada di:
+
+- https://shbfrlnc.github.io
+
+Channel YouTube saya ada di:
+
+- https://www.youtube.com/channel/UC5CU82o_a3sYZ6eLDwBD3zg
+
+Traktir saya di:
+
+- https://sociabuzz.com/lsfkrshb/tribe
+
+## Repository Penting Saya
 
 Aplikasi Blog CMS dengan Node.js:
 
