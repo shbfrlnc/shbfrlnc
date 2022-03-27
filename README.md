@@ -64,10 +64,6 @@ Template Portfolio Landing Page:
 
 - https://github.com/shbfrlnc/PRTFLLP-BST
 
-Source Code Tutorial:
-
-- https://github.com/shbfrlnc/Semua-Kode-Belajar-Dan-Studi-Kasus
-
 Game Assets:
 
 - https://github.com/shbfrlnc/3D-LOWPOLY-GMSST
