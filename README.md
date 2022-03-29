@@ -14,7 +14,7 @@ Traktir saya di:
 
 - https://sociabuzz.com/lsfkrshb/tribe
 
-## Repository Tutorial & Studi Kasus
+## Repository Tutorial
 
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Electron
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Python3
