@@ -2,13 +2,13 @@
 
 ## Info Tentang Saya
 
-Channel YouTube saya ada di:
-
-- https://www.youtube.com/c/shbfrlnc
-
 Traktir saya di:
 
 - https://sociabuzz.com/lsfkrshb/tribe
+
+Channel YouTube saya ada di:
+
+- https://www.youtube.com/c/shbfrlnc
 
 ## Repository Tutorial
 
