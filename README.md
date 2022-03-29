@@ -14,7 +14,15 @@ Traktir saya di:
 
 - https://sociabuzz.com/lsfkrshb/tribe
 
-## Repository Penting Saya
+## Repository Tutorial & Studi Kasus
+
+- https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Electron
+- https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Python3
+- https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows
+- https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Nodejs
+- https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Godot-Engine
+
+## Repository Portfolio
 
 Aplikasi Blog CMS dengan Node.js:
 
