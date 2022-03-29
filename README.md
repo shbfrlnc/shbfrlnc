@@ -1,3 +1,5 @@
+![](assets/wagapat.png)
+
 # Hi there 👋
 
 ## Info Tentang Saya
@@ -71,5 +73,4 @@ Template Portfolio Landing Page:
 Game Assets:
 
 - https://github.com/shbfrlnc/3D-LOWPOLY-GMSST
-
 
