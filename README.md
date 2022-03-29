@@ -1,5 +1,3 @@
-![](assets/wagapat.png)
-
 # Hi there 👋
 
 ## Info Tentang Saya
@@ -74,3 +72,4 @@ Game Assets:
 
 - https://github.com/shbfrlnc/3D-LOWPOLY-GMSST
 
+![](assets/wagapat.png)
