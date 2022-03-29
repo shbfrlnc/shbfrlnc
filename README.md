@@ -8,7 +8,7 @@ Website saya ada di:
 
 Channel YouTube saya ada di:
 
-- https://www.youtube.com/channel/UC5CU82o_a3sYZ6eLDwBD3zg
+- https://www.youtube.com/c/shbfrlnc
 
 Traktir saya di:
 
