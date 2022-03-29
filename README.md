@@ -2,10 +2,6 @@
 
 ## Info Tentang Saya
 
-Website saya ada di:
-
-- https://shbfrlnc.github.io
-
 Channel YouTube saya ada di:
 
 - https://www.youtube.com/c/shbfrlnc
