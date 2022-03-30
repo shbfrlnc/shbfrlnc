@@ -10,7 +10,7 @@ Channel YouTube saya ada di:
 
 - https://www.youtube.com/c/shbfrlnc
 
-## Repository Tutorial
+## Repository Tutorial Coding
 
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Electron
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Python3
