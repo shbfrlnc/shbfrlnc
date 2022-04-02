@@ -8,7 +8,7 @@ Traktir saya di:
 
 Channel YouTube saya ada di:
 
-- https://www.youtube.com/c/shbfrlnc
+- https://www.youtube.com/c/SHBFRLNC
 
 ## Repository Tutorial
 
