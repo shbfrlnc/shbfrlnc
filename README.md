@@ -12,11 +12,12 @@ Channel YouTube saya ada di:
 
 ## Repository Tutorial
 
+- https://github.com/shbfrlnc/Belajar-Cara-Build-Software-Open-Source
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Electron
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Python3
-- https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Nodejs
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Godot-Engine
+- https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows
 
 ## Repository Portfolio
 
