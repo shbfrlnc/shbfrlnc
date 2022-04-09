@@ -1,5 +1,5 @@
 # Hi there 👋
- 
+
 ## Info Tentang Saya
 
 Traktir saya di:
@@ -19,7 +19,21 @@ Channel YouTube saya ada di:
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Godot-Engine
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows
 
-## Repository Portfolio
+## Repository Aplikasi Desktop
+
+Aplikasi Proteksi YouTube Embed dan PDF Embed:
+
+- https://github.com/shbfrlnc/EMBDPRTKT
+
+Aplikasi Website Downloader:
+
+- https://github.com/shbfrlnc/ESTGRBBR
+
+Aplikasi Web Browser yang Dapat Diprogram:
+
+- https://github.com/shbfrlnc/ECDRBRWSR
+
+## Repository Aplikasi Web
 
 Aplikasi Blog CMS dengan Node.js:
 
@@ -37,6 +51,8 @@ Aplikasi Private Dashboard untuk Searching:
 
 - https://github.com/shbfrlnc/NDPVTDSHBRD-BST
 
+## Repository Game
+
 Game Off-Road dengan Godot Engine:
 
 - https://github.com/shbfrlnc/GDGMFFRD
@@ -49,17 +65,7 @@ Game Turret dengan Godot Engine:
 
 - https://github.com/shbfrlnc/GDGMTRRT
 
-Aplikasi Proteksi YouTube Embed dan PDF Embed:
-
-- https://github.com/shbfrlnc/EMBDPRTKT
-
-Aplikasi Website Downloader:
-
-- https://github.com/shbfrlnc/ESTGRBBR
-
-Aplikasi Web Browser yang Dapat Diprogram:
-
-- https://github.com/shbfrlnc/ECDRBRWSR
+## Repository Asset dan Lain-Lain
 
 Template Blog Theme: 
 
