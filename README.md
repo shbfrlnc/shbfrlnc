@@ -12,11 +12,28 @@ Channel YouTube saya ada di:
 
 ## Repository Tutorial
 
+Kumpulan Panduan Cara Build (Compile) Software Open Source:
+
 - https://github.com/shbfrlnc/Belajar-Cara-Build-Software-Open-Source
+
+Kumpulan Tutorial dan Studi Kasus Electron js:
+
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Electron
+
+Kumpulan Tutorial dan Studi Kasus Python 3:
+
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Python3
+
+Kumpulan Tutorial dan Studi Kasus Node.js:
+
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Nodejs
+
+Kumpulan Tutorial dan Studi Kasus Godot Engine:
+
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Godot-Engine
+
+Kumpulan Tutorial dan Studi Kasus C++ untuk Windows:
+
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows
 
 ## Repository Aplikasi Desktop
