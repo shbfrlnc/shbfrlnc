@@ -2,13 +2,9 @@
 
 ## Info Tentang Saya
 
-Traktir saya di:
+Traktir Saya, Channel YouTube Saya, dan lain-lain:
 
-- https://sociabuzz.com/lsfkrshb/tribe
-
-Channel YouTube saya ada di:
-
-- https://www.youtube.com/c/SHBFRLNC
+- https://sociabuzz.com/lsfkrshb
 
 ## Repository Tutorial
 
