@@ -60,9 +60,7 @@ Todo App with React, Redux, and Axios:
 
 - https://github.com/shbfrlnc/RCTADVTD-BST
 
-Private Dashboard for Searching the Web:
 
-- https://github.com/shbfrlnc/NDPVTDSHBRD-BST
 
 ## Game Repositories
 
