@@ -6,7 +6,7 @@ Traktir Saya, Channel YouTube Saya, dan lain-lain:
 
 - https://sociabuzz.com/lsfkrshb
 
-## Repository Tutorial
+## Belajar dan Studi Kasus Pemrograman
 
 Kumpulan Panduan Cara Build (Compile) Software Open Source:
 
@@ -32,62 +32,62 @@ Kumpulan Tutorial dan Studi Kasus C++ untuk Windows:
 
 - https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows
 
-## Repository Aplikasi Desktop
+## Desktop Apps Repositories
 
-Aplikasi Proteksi YouTube Embed dan PDF Embed:
+YouTube Embed and PDF Embed Protection for Windows:
 
 - https://github.com/shbfrlnc/EMBDPRTKT
 
-Aplikasi Website Downloader:
+Website Downloader (Download as Image or PDF) for Windows:
 
 - https://github.com/shbfrlnc/ESTGRBBR
 
-Aplikasi Web Browser yang Dapat Diprogram:
+Programmable Web Browser (Based on Electron WebView) for Windows:
 
 - https://github.com/shbfrlnc/ECDRBRWSR
 
-## Repository Aplikasi Web
+## Web Apps Repositories
 
-Aplikasi Blog CMS dengan Node.js:
+Node.js Blogging CMS:
 
 - https://github.com/shbfrlnc/NDBLGCMS-BST
 
-Aplikasi Berbagi Paste dengan Node.js:
+Node.js Paste Sharing:
 
 - https://github.com/shbfrlnc/NDPSTSHR-BST
 
-Aplikasi Todo dengan React, Redux, dan Axios: 
+Todo App with React, Redux, and Axios: 
 
 - https://github.com/shbfrlnc/RCTADVTD-BST
 
-Aplikasi Private Dashboard untuk Searching:
+Private Dashboard for Searching the Web:
 
 - https://github.com/shbfrlnc/NDPVTDSHBRD-BST
 
-## Repository Game
+## Game Repositories
 
-Game Off-Road dengan Godot Engine:
+Godot Engine Off-Road Game:
 
 - https://github.com/shbfrlnc/GDGMFFRD
 
-Game Tank dengan Godot Engine:
+Godot Engine Tank Game:
 
 - https://github.com/shbfrlnc/GDGMTNK
 
-Game Turret dengan Godot Engine:
+Godot Engine Turret Game:
 
 - https://github.com/shbfrlnc/GDGMTRRT
 
-## Repository Asset dan Lain-Lain
+## Assets Repositories etc...
 
-Template Blog Theme: 
+Tailwind CSS Blog Theme HTML Template: 
 
 - https://github.com/shbfrlnc/RNGBLGTHM-TWD
 
-Template Portfolio Landing Page: 
+Bootstrap Portfolio Site HTML Template: 
 
 - https://github.com/shbfrlnc/PRTFLLP-BST
 
-Game Assets:
+Low Poly 3D Models (Blender Format):
 
 - https://github.com/shbfrlnc/3D-LOWPOLY-GMSST
