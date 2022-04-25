@@ -4,7 +4,7 @@
 
 Support me, my youtube channel, etc:
 
-- https://shbfrlnc.github.io/
+- https://shbfrlnc.github.io
 
 ## Tutorial & Case Studies (Bahasa Indonesia)
 
