@@ -6,7 +6,7 @@ Traktir Saya, Channel YouTube Saya, dan lain-lain:
 
 - https://sociabuzz.com/lsfkrshb
 
-## Belajar dan Studi Kasus Pemrograman
+## Tutorial & Case Studies (Bahasa Indonesia)
 
 Kumpulan Panduan Cara Build (Compile) Software Open Source:
 
@@ -59,8 +59,6 @@ Node.js Paste Sharing:
 Todo App with React, Redux, and Axios: 
 
 - https://github.com/shbfrlnc/RCTADVTD-BST
-
-
 
 ## Game Repositories
 
