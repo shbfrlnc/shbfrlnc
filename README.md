@@ -1,10 +1,10 @@
 # Hi there 👋
 
-## Info Tentang Saya
+## About Me
 
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
+Support me, my youtube channel, etc:
 
-- https://sociabuzz.com/lsfkrshb
+- https://shbfrlnc.github.io/
 
 ## Tutorial & Case Studies (Bahasa Indonesia)
 
