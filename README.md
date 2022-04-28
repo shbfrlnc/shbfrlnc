@@ -6,7 +6,7 @@ Support me, my youtube channel, etc:
 
 - https://shbfrlnc.github.io
 
-## Tutorial & Case Studies (Bahasa Indonesia)
+## Technical Articles (Bahasa Indonesia)
 
 Kumpulan Panduan Cara Build (Compile) Software Open Source:
 
