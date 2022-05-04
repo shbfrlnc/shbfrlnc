@@ -1,12 +1,12 @@
 # Hi there 👋
 
-## About Me
+## Info Tentang Saya
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
-## Technical Articles (Bahasa Indonesia)
+## Artikel Teknis
 
 Kumpulan Panduan Cara Build (Compile) Software Open Source:
 
@@ -34,21 +34,21 @@ Kumpulan Tutorial dan Studi Kasus C++ untuk Windows:
 
 ## Android Apps Repositories
 
-Android Sound Meter:
+Android Sound Meter App:
 
 - https://github.com/shbfrlnc/ANSNDMTR
 
 ## Desktop Apps Repositories
 
-YouTube Embed and PDF Embed Protection for Windows:
+YouTube Embed and PDF Embed Protection:
 
 - https://github.com/shbfrlnc/EMBDPRTKT
 
-Website Downloader (Download as Image or PDF) for Windows:
+Website Downloader (Download as Image or PDF):
 
 - https://github.com/shbfrlnc/ESTGRBBR
 
-Programmable Web Browser (Based on Electron WebView) for Windows:
+Programmable Web Browser (Based on Electron WebView):
 
 - https://github.com/shbfrlnc/ECDRBRWSR
 
@@ -62,7 +62,7 @@ Node.js Paste Sharing:
 
 - https://github.com/shbfrlnc/NDPSTSHR-BST
 
-Todo App with React, Redux, and Axios: 
+Todo App dengan Node.js, React, Redux, dan Axios: 
 
 - https://github.com/shbfrlnc/RCTADVTD-BST
 
