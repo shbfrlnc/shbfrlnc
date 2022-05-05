@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Info Tentang Saya
+## Info Tentang Saya2
 
 TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
