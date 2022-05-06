@@ -2,7 +2,7 @@
 
 ## Info Tentang Saya
 
-TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
+SERVICES / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
