@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## Info Tentang Saya
+## Info Lebih Lanjut
 
-SERVICES / WEBSITE / YOUTUBE / TWITTER:
+JASA FREELANCE:
 
 - https://shbfrlnc.github.io
 
