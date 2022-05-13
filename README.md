@@ -2,7 +2,7 @@
 
 ## Info Lebih Lanjut
 
-JASA FREELANCE:
+WEBSITE:
 
 - https://shbfrlnc.github.io
 
