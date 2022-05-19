@@ -15,11 +15,11 @@ WEBSITE:
 - [Kumpulan Tutorial dan Studi Kasus Godot Engine](https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-Godot-Engine)
 - [Kumpulan Tutorial dan Studi Kasus C++ untuk Windows](https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows)
 
-## Web Apps Repositories
 
-- [NDBLGCMS-BST: Node.js Blogging CMS](https://github.com/shbfrlnc/NDBLGCMS-BST)
-- [NDPSTSHR-BST: Node.js Paste Sharing](https://github.com/shbfrlnc/NDPSTSHR-BST)
-- [RCTADVTD-BST: Todo App dengan Node.js, React, Redux, dan Axios](https://github.com/shbfrlnc/RCTADVTD-BST)
+## Android Apps Repositories
+
+- [ANSNDMTR: Android Sound Meter App](https://github.com/shbfrlnc/ANSNDMTR)
+- [ANDPWDGNTR: Android Password Generator App](https://github.com/shbfrlnc/ANDPWDGNTR)
 
 ## Desktop Apps Repositories
 
@@ -33,9 +33,11 @@ WEBSITE:
 - [GDGMTNK: Godot Engine Tank Game](https://github.com/shbfrlnc/GDGMTNK)
 - [GDGMTRRT: Godot Engine Turret Game](https://github.com/shbfrlnc/GDGMTRRT)
 
-## Android Apps Repositories
+## Web Apps Repositories
 
-- [ANSNDMTR: Android Sound Meter App](https://github.com/shbfrlnc/ANSNDMTR)
+- [NDBLGCMS-BST: Node.js Blogging CMS](https://github.com/shbfrlnc/NDBLGCMS-BST)
+- [NDPSTSHR-BST: Node.js Paste Sharing](https://github.com/shbfrlnc/NDPSTSHR-BST)
+- [RCTADVTD-BST: Todo App dengan Node.js, React, Redux, dan Axios](https://github.com/shbfrlnc/RCTADVTD-BST)
 
 ## Assets Repositories Dan Lain-Lain...
 
